@@ -36,6 +36,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [All Things AI](https://allthingsai.com/) - The Curated Resource of AI Tools
 - [aitools.inc](https://aitools.inc) - Discover tools to free up your time and 10x your output.
 - [AI Tool Trek](https://aitooltrek.com/) - Curated list of latestnet AI tools & AI News.
+- [AITranslations.com](http://aitranslations.com/) - leading provider of AI translation services to small and medium businesses of any industry worldwide
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
@@ -59,6 +60,9 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 ## I
 
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
+
+## M
+- [MachineTranslation.com](https://www.machinetranslation.com/) - Online translation tool aggregating several AI translation engines to offer multiple high-quality, real-time translations
 
 ## N
 
@@ -89,7 +93,9 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [ToolPasta by Robopost](https://toolpasta.com/) - Discover The Best AI Websites & Tools
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
-- [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet. 
+- [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet.
+- [Translation Quality Assurance Tool](https://www.tomedes.com/tools/translation-quality-assurance) - Essential resource for enhancing translation quality. This tool allows users to instantly assess the accuracy, fluency, and consistency of their translated content, ensuring high standards across all materials.
+
 
 # Add Yours
 
